@@ -5,5 +5,5 @@ Contrastive Learning With Dynamic Instances and Contour Consistency for SAR Land
 python main_moco.py   -a resnet101   --lr 0.03   --dist-url 'tcp://localhost:10001' --multiprocessing-distributed --world-size 1 --rank 0 --mlp --moco-t 0.2 --aug-plus --cos   /home/ma-user/work/SAR_data
 
 # weights
-通过网盘分享的文件：SAR_pretrained_weights
+SAR_dic3l_pretrained_weights
 链接: https://pan.baidu.com/s/15YfopTFjTvF5hlRMg-QAyQ?pwd=sf5d 提取码: sf5d 
