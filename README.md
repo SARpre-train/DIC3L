@@ -8,19 +8,19 @@ Although significant advances have been achieved in SAR land-cover classificatio
 
 ## Framework
 
-![framework](.\asserts\framework.png)
+![framework](./asserts/framework.png)
 
 the overall workflow of the proposed DIC3L framework, where IS denotes the intersection region shared by the two augmented views.
 
 ## Experiments
 
-![image-20250703221546642](.\asserts\cl_contrast.png)
+![cl_contrast](./asserts/cl_contrast.png)
 
 Comparison results with random initialization, imagenet pre-training, and other cl methods on downstream sar land-cover classification dataset. Our pre-training framework outperforms imagenet weights and other contrastive learning methods.
 
 
 
-![image-20250703222004409](.\asserts\model_contrast.png)
+![model_contrast](./asserts/model_contrast.png)
 
 Comparisons with the sota semantic segmentation methods on the test set of downstream sar land-cover mapping dataset. Models built with our weights outperform those built with other sota weights.
 
