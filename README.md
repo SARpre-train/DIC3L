@@ -30,4 +30,5 @@ python main_dic3l.py   -a resnet101   --lr 0.03   --dist-url 'tcp://localhost:10
 
 # Weights
 SAR_dic3l_pretrained_weights
-to be publised
+
+to be published
