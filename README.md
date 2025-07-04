@@ -30,4 +30,4 @@ python main_dic3l.py   -a resnet101   --lr 0.03   --dist-url 'tcp://localhost:10
 
 # Weights
 SAR_dic3l_pretrained_weights
-链接: https://pan.baidu.com/s/15YfopTFjTvF5hlRMg-QAyQ?pwd=sf5d 提取码: sf5d 
+to be publised
