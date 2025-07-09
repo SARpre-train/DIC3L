@@ -27,8 +27,7 @@ Comparisons with the sota semantic segmentation methods on the test set of downs
 # Start
 
 python main_dic3l.py   -a resnet101   --lr 0.03   --dist-url 'tcp://localhost:10001' --multiprocessing-distributed --world-size 1 --rank 0 --mlp --moco-t 0.2 --aug-plus --cos   /home/ma-user/work/SAR_data
+*Specific codes will be made public later
 
 # Weights
-SAR_dic3l_pretrained_weights
-
-to be published
+*Specific weights will be made public later
